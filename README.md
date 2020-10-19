@@ -1,6 +1,6 @@
 # Nonogram-Solver
 
-## A recursive approach to solve nonogram puzzles given the clues.
+## A recursive approach to solve nonogram puzzles
 
 ### About nonograms:
 The board starts out empty, filled with undetermined/unverified blocks (" ")
