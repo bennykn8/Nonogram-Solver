@@ -23,3 +23,5 @@ If the index has 0 possible occurances, then there must be a crossed-out block t
 If the index has a filled block in every occurance, then there must be a filled block there("#")
 
 This process is repeated for all rows and columns until the puzzle is solved and left without an undetermined block.
+
+![Nonogram Elephant Example](https://www.google.com/url?sa=i&url=http%3A%2F%2Fpopapp.org%2FApps%2FDetails%2F3&psig=AOvVaw06-ErZ-LNvxuAtt9WVQPQY&ust=1603218634763000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICqrf6kwewCFQAAAAAdAAAAABAE)
