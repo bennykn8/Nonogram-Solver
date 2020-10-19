@@ -26,5 +26,6 @@ If the index has a filled block in every occurance, then there must be a filled 
 This process is repeated for all rows and columns until the puzzle is solved and left without an undetermined block.
 
 ![Nonogram Elephant Example](https://lh3.googleusercontent.com/proxy/WYYbSa7JFJq1wMaNw5gpSrRlTDq8Z8eChNVYX5GP0iM2UqphsZc9D_W_eqDSuuT-0aTJdYlGMkKCWnpxUee7tVtdHmeqeQ5r20FubF4jFkzCP5j3)
+![Unsolved Puzzle](/NonogramImages/NonogramMouse-unsolved.png)
 
-![test](/Pictures/Screenshots/Screenshot (5).png)
+![Solved Puzzle](/NonogramImages/NonogramMouse-solved.png)
