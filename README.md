@@ -27,4 +27,4 @@ This process is repeated for all rows and columns until the puzzle is solved and
 
 ![Nonogram Elephant Example](https://lh3.googleusercontent.com/proxy/WYYbSa7JFJq1wMaNw5gpSrRlTDq8Z8eChNVYX5GP0iM2UqphsZc9D_W_eqDSuuT-0aTJdYlGMkKCWnpxUee7tVtdHmeqeQ5r20FubF4jFkzCP5j3)
 
-![test](https://bl3301files.storage.live.com/y4pHNLmQvZw41gRhwDa5qv94-d379VjBxeojPw6erF1CDo22dwrIqPSKpYsTKrXOzeO8XeeWtyxwJsyx01vu9YeQoby-XD2CMJztF0ZOh854R2P38P2NeugMGY0ejtZa1hPJNRUzhdW91bk_9DXmqwEm9lCHpxTB1K3GpLYV_ImnJdf_NrECBb_NZc44nq0eCGkhGzlgp3J_bEjpiR2aJzX0aIB9rfgQe_sS121lHSHvF4/Screenshot%20%285%29.png?psid=1&width=628&height=493)
+![test](/Pictures/Screenshots/Screenshot (5).png)
